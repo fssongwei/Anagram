@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anagram</string>
+    <string name="title_activity_game__hard">Game_Hard</string>
+</resources>
